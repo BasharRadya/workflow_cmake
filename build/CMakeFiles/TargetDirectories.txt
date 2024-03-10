@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/networking_program/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/networking_program/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/networking_program/build/CMakeFiles/test_code.dir
